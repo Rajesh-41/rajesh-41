@@ -1,16 +1,17 @@
-## Hi there 👋
+# Rajesh Kumar's Personal Repo 👨‍💻
 
-<!--
-**Rajesh-41/rajesh-41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! This is my personal space to share projects, coding practice, and experiments.
 
-Here are some ideas to get you started:
+## About Me
+- 💻 Computer Science Student  
+- 🐍 Python & C++ Developer  
+- 📚 Practicing DSA and competitive programming  
+- 🌐 Exploring AI, Machine Learning, and Web Development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What’s in this Repo
+- Personal coding projects  
+- DSA problem solutions  
+- Mini Python and C++ projects  
+- Notes on CS concepts  
+
+
